@@ -96,7 +96,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`../../assets/user.png`}
+                  src={`https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-512.png`}
                   style={{
                     cursor: "pointer",
                     borderRadius: "50%",
